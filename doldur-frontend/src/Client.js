@@ -12,7 +12,7 @@ export class Client {
     }
     async getLastUpdated() {
         const data = (await axios.get(this.lastUpdatedUrl)).data;
-        console.log("Last updated = " + data);
+        console.log(`Last updated = ${data}`);
         return data;
     }
     async getMusts(dept, semester) {
