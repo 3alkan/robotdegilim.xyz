@@ -18,9 +18,9 @@
     "googleapis": "^60.0.1",
     "html-to-image": "^1.11.11",
     "local-storage": "^2.0.0",
-    "react": "^16.13.1",
+    "react": "^17.0.2",
     "react-device-detect": "^1.13.1",
-    "react-dom": "^16.13.1",
+    "react-dom": "^17.0.2",
     "react-scripts": "3.4.3"
   },
   "scripts": {
